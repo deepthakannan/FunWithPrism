@@ -1,0 +1,4 @@
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\bin\Debug\LearnPrism.exe
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\bin\Debug\LearnPrism.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\obj\x86\Debug\LearnPrism.exe
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\obj\x86\Debug\LearnPrism.pdb
