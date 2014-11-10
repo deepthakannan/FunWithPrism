@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Microsoft.Practices.Unity;
+using Microsoft.Practices.Unity.Configuration;
+using System.Configuration;
 
 namespace LearnPrism
 {
@@ -9,12 +12,14 @@ namespace LearnPrism
     {
         static void Main(string[] args)
         {
-            IDiskOutput display = new ConsoleDiskOutput();
-            IDiskCreator diskCreator = new MovieDiscFromConsoleCreator();
-            IDiskPlayer player = new MoviePlayer();
-            IDisk disc = diskCreator.Disc;
-            player.PlayAudio(disc, display);
-            player.PlayVideo(disc, display);
+            UnityContainer container = new UnityContainer();
+
+            UnityConfigurationSection configurationSection = (UnityConfigurationSection)ConfigurationManager.GetSection("unity");
+
+            configurationSection.Containers.Default.Configure(container);
+
+            IVideosLibrary videoLibrary = container.Resolve<IVideosLibrary>();
+            videoLibrary.PlayVideo();
         }
     }
 }

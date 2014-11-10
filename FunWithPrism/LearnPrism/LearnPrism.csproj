@@ -34,7 +34,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.Practices.Unity">
+      <HintPath>..\..\..\..\..\..\..\Libraries\Prism\Lib\Desktop\Unity\Microsoft.Practices.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Configuration">
+      <HintPath>..\..\..\..\..\..\..\Libraries\Prism\Lib\Desktop\Unity\Microsoft.Practices.Unity.Configuration.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -43,16 +50,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConsoleDiskOutput.cs" />
-    <Compile Include="IDisk.cs" />
-    <Compile Include="IDiskCreator.cs" />
-    <Compile Include="IDiskOutput.cs" />
-    <Compile Include="IDiskPlayer.cs" />
-    <Compile Include="MovieDiscFromConsoleCreator.cs" />
-    <Compile Include="MovieDisk.cs" />
-    <Compile Include="MoviePlayer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MoviePlayer\MoviePlayerLibrary.csproj">
+      <Project>{AED5A3E7-5959-40E2-B586-0E186CA6F477}</Project>
+      <Name>MoviePlayerLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VideoPlayerInputOutputLibraries\VideoPlayerInputOutputLibrary.csproj">
+      <Project>{BB7C0285-8F1B-44D5-9B35-AE43DE07746D}</Project>
+      <Name>VideoPlayerInputOutputLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VideoPlayerInterfacesLibrary\VideoPlayerInterfacesLibrary.csproj">
+      <Project>{9BF0C667-2F93-457D-82E1-8E117BAA89A3}</Project>
+      <Name>VideoPlayerInterfacesLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
