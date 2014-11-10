@@ -10,7 +10,6 @@ C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\bin\Debug\Micr
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\bin\Debug\Microsoft.Practices.Unity.xml
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\bin\Debug\LearnPrism.exe.config
-C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\bin\Debug\VideoPlayerInputOutputLibrary.dll
-C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\bin\Debug\VideoPlayerInputOutputLibrary.pdb
-C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\bin\Debug\MoviePlayerLibrary.dll
-C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\bin\Debug\MoviePlayerLibrary.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\Bin\LearnPrism.exe.config
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\Bin\LearnPrism.exe
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\Bin\LearnPrism.pdb
