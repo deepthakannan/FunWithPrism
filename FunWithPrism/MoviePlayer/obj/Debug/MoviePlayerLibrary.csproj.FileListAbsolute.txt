@@ -1,11 +1,11 @@
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MoviePlayer\bin\Debug\VideoPlayerInterfacesLibrary.dll
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MoviePlayer\bin\Debug\VideoPlayerInterfacesLibrary.pdb
-C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MoviePlayer\obj\Debug\MoviePlayerLibrary.csprojResolveAssemblyReference.cache
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MoviePlayer\bin\Debug\Microsoft.Practices.Unity.dll
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MoviePlayer\bin\Debug\Microsoft.Practices.Unity.xml
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MoviePlayer\bin\Debug\MoviePlayerLibrary.dll
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MoviePlayer\bin\Debug\MoviePlayerLibrary.pdb
-C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MoviePlayer\obj\Debug\MoviePlayerLibrary.dll
-C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MoviePlayer\obj\Debug\MoviePlayerLibrary.pdb
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\Bin\MoviePlayerLibrary.dll
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\Bin\MoviePlayerLibrary.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MoviePlayer\obj\Debug\MoviePlayerLibrary.csprojResolveAssemblyReference.cache
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MoviePlayer\obj\Debug\MoviePlayerLibrary.dll
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MoviePlayer\obj\Debug\MoviePlayerLibrary.pdb

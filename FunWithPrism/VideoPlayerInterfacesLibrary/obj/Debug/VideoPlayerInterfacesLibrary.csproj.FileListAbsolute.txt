@@ -1,6 +1,6 @@
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\VideoPlayerInterfacesLibrary\bin\Debug\VideoPlayerInterfacesLibrary.dll
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\VideoPlayerInterfacesLibrary\bin\Debug\VideoPlayerInterfacesLibrary.pdb
-C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\VideoPlayerInterfacesLibrary\obj\Debug\VideoPlayerInterfacesLibrary.dll
-C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\VideoPlayerInterfacesLibrary\obj\Debug\VideoPlayerInterfacesLibrary.pdb
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\Bin\VideoPlayerInterfacesLibrary.dll
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\Bin\VideoPlayerInterfacesLibrary.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\VideoPlayerInterfacesLibrary\obj\Debug\VideoPlayerInterfacesLibrary.dll
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\VideoPlayerInterfacesLibrary\obj\Debug\VideoPlayerInterfacesLibrary.pdb

@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.Practices.Prism">
+      <HintPath>..\..\..\..\..\..\..\Libraries\Prism\Bin\Desktop\Microsoft.Practices.Prism.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.Practices.Unity">
       <HintPath>..\..\..\..\..\..\..\Libraries\Prism\Lib\Desktop\Unity\Microsoft.Practices.Unity.dll</HintPath>
     </Reference>
@@ -46,6 +49,7 @@
     <Compile Include="MovieDiscFromConsoleCreator.cs" />
     <Compile Include="MovieDisk.cs" />
     <Compile Include="MoviePlayer.cs" />
+    <Compile Include="MoviePlayerLibraryModule.cs" />
     <Compile Include="MoviesLibrary.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

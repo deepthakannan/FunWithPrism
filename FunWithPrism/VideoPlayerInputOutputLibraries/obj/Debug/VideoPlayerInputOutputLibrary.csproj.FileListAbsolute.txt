@@ -1,9 +1,9 @@
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\VideoPlayerInputOutputLibraries\bin\Debug\VideoPlayerInterfacesLibrary.dll
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\VideoPlayerInputOutputLibraries\bin\Debug\VideoPlayerInterfacesLibrary.pdb
-C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\VideoPlayerInputOutputLibraries\obj\Debug\VideoPlayerInputOutputLibrary.csprojResolveAssemblyReference.cache
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\VideoPlayerInputOutputLibraries\bin\Debug\VideoPlayerInputOutputLibrary.dll
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\VideoPlayerInputOutputLibraries\bin\Debug\VideoPlayerInputOutputLibrary.pdb
-C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\VideoPlayerInputOutputLibraries\obj\Debug\VideoPlayerInputOutputLibrary.dll
-C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\VideoPlayerInputOutputLibraries\obj\Debug\VideoPlayerInputOutputLibrary.pdb
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\Bin\VideoPlayerInputOutputLibrary.dll
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\Bin\VideoPlayerInputOutputLibrary.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\VideoPlayerInputOutputLibraries\obj\Debug\VideoPlayerInputOutputLibrary.csprojResolveAssemblyReference.cache
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\VideoPlayerInputOutputLibraries\obj\Debug\VideoPlayerInputOutputLibrary.dll
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\VideoPlayerInputOutputLibraries\obj\Debug\VideoPlayerInputOutputLibrary.pdb

@@ -1,8 +1,5 @@
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\bin\Debug\LearnPrism.exe
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\bin\Debug\LearnPrism.pdb
-C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\obj\x86\Debug\LearnPrism.exe
-C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\obj\x86\Debug\LearnPrism.pdb
-C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\obj\x86\Debug\LearnPrism.csprojResolveAssemblyReference.cache
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\bin\Debug\VideoPlayerInterfacesLibrary.dll
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\bin\Debug\VideoPlayerInterfacesLibrary.pdb
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
@@ -13,3 +10,6 @@ C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\bin\Debug\Lear
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\Bin\LearnPrism.exe.config
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\Bin\LearnPrism.exe
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\Bin\LearnPrism.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\obj\x86\Debug\LearnPrism.csprojResolveAssemblyReference.cache
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\obj\x86\Debug\LearnPrism.exe
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\LearnPrism\obj\x86\Debug\LearnPrism.pdb

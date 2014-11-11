@@ -5,6 +5,9 @@ using System.Text;
 using Microsoft.Practices.Unity;
 using Microsoft.Practices.Unity.Configuration;
 using System.Configuration;
+using Microsoft.Practices.Prism.Modularity;
+using Microsoft.Practices.Prism.Logging;
+using Microsoft.Practices.ServiceLocation;
 
 namespace LearnPrism
 {
@@ -14,12 +17,26 @@ namespace LearnPrism
         {
             UnityContainer container = new UnityContainer();
 
-            UnityConfigurationSection configurationSection = (UnityConfigurationSection)ConfigurationManager.GetSection("unity");
+            container.RegisterInstance<IServiceLocator>(new UnityServiceLocator(container));
 
-            configurationSection.Containers.Default.Configure(container);
+            container.RegisterType<IModuleInitializer, ModuleInitializer>();
 
-            IVideosLibrary videoLibrary = container.Resolve<IVideosLibrary>();
-            videoLibrary.PlayVideo();
+            //This knows how to read from Configuration file
+            //container.RegisterType<IModuleCatalog, ConfigurationModuleCatalog>();
+            // or we can register the instance directly
+            ConfigurationModuleCatalog moduleCatalog = new ConfigurationModuleCatalog();
+            container.RegisterInstance<IModuleCatalog>(moduleCatalog);
+
+            // Logs using System.IO.Writer
+            TextLogger textLogger = new TextLogger();
+            container.RegisterInstance<ILoggerFacade>(textLogger);
+
+            //Initialized with the help of TextLogger, ConfigurationModuleCatalog and ModuleInitializer
+            container.RegisterType<IModuleManager, ModuleManager>();
+
+            IModuleManager moduleManager = container.Resolve<IModuleManager>();
+
+            moduleManager.Run();
         }
     }
 }
