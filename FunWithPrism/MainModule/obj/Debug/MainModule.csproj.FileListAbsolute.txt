@@ -1,0 +1,16 @@
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MainModule\bin\Debug\MainModule.dll
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MainModule\bin\Debug\MainModule.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MainModule\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MainModule\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MainModule\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MainModule\bin\Debug\VideoPlayerInterfacesLibrary.dll
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MainModule\bin\Debug\VideoPlayerInterfacesLibrary.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MainModule\bin\Debug\Microsoft.Practices.Prism.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MainModule\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MainModule\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MainModule\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\Bin\MainModuleLibrary.dll
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\Bin\MainModuleLibrary.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MainModule\obj\Debug\MainModule.csprojResolveAssemblyReference.cache
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MainModule\obj\Debug\MainModuleLibrary.dll
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithPrism\MainModule\obj\Debug\MainModuleLibrary.pdb

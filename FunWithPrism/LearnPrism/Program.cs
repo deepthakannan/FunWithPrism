@@ -15,28 +15,9 @@ namespace LearnPrism
     {
         static void Main(string[] args)
         {
-            UnityContainer container = new UnityContainer();
+            MoviePlayerBootstrapper bootStrapper = new MoviePlayerBootstrapper();
 
-            container.RegisterInstance<IServiceLocator>(new UnityServiceLocator(container));
-
-            container.RegisterType<IModuleInitializer, ModuleInitializer>();
-
-            //This knows how to read from Configuration file
-            //container.RegisterType<IModuleCatalog, ConfigurationModuleCatalog>();
-            // or we can register the instance directly
-            ConfigurationModuleCatalog moduleCatalog = new ConfigurationModuleCatalog();
-            container.RegisterInstance<IModuleCatalog>(moduleCatalog);
-
-            // Logs using System.IO.Writer
-            TextLogger textLogger = new TextLogger();
-            container.RegisterInstance<ILoggerFacade>(textLogger);
-
-            //Initialized with the help of TextLogger, ConfigurationModuleCatalog and ModuleInitializer
-            container.RegisterType<IModuleManager, ModuleManager>();
-
-            IModuleManager moduleManager = container.Resolve<IModuleManager>();
-
-            moduleManager.Run();
+            bootStrapper.Run();
         }
     }
 }
