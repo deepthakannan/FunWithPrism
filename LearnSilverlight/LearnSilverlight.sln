@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnSilverlight", "LearnSilverlight\LearnSilverlight.csproj", "{53F55ECA-6278-4252-A6A3-14E3A364DB6B}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LearnSilverlight.Web", "LearnSilverlight.Web", "{7112CCC5-670B-4AE2-A788-C543B58935AF}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/LearnSilverlight.Web"
+		Debug.AspNetCompiler.PhysicalPath = "LearnSilverlight.Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\LearnSilverlight.Web\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/LearnSilverlight.Web"
+		Release.AspNetCompiler.PhysicalPath = "LearnSilverlight.Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\LearnSilverlight.Web\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50009"
+		DefaultWebSiteLanguage = "Visual C#"
+		ProjOutputReferences = "{53F55ECA-6278-4252-A6A3-14E3A364DB6B}|ClientBin|false;{146274A4-BC7D-480D-B433-A6DEF343E727}|ClientBin|false;{14208F18-60E9-4D2B-88BE-B4AE76EF6D19}|ClientBin|false;"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightAppA", "SilverlightAppA\SilverlightAppA.csproj", "{146274A4-BC7D-480D-B433-A6DEF343E727}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightAppB", "SilverlightAppB\SilverlightAppB.csproj", "{14208F18-60E9-4D2B-88BE-B4AE76EF6D19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightMovieInterfaces", "SilverlightMovieInterfaces\SilverlightMovieInterfaces.csproj", "{4052A3E0-FA65-4151-A191-339C93EC8C9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightMovie", "SilverlightMovie\SilverlightMovie.csproj", "{0A1AC8AB-7BD5-431B-8F70-E0BDFB9AB540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainModule", "MainModule\MainModule.csproj", "{DCB5DAA3-D852-410B-A51C-6C6E6843C048}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53F55ECA-6278-4252-A6A3-14E3A364DB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F55ECA-6278-4252-A6A3-14E3A364DB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F55ECA-6278-4252-A6A3-14E3A364DB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F55ECA-6278-4252-A6A3-14E3A364DB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7112CCC5-670B-4AE2-A788-C543B58935AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7112CCC5-670B-4AE2-A788-C543B58935AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7112CCC5-670B-4AE2-A788-C543B58935AF}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7112CCC5-670B-4AE2-A788-C543B58935AF}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{146274A4-BC7D-480D-B433-A6DEF343E727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146274A4-BC7D-480D-B433-A6DEF343E727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146274A4-BC7D-480D-B433-A6DEF343E727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146274A4-BC7D-480D-B433-A6DEF343E727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14208F18-60E9-4D2B-88BE-B4AE76EF6D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14208F18-60E9-4D2B-88BE-B4AE76EF6D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14208F18-60E9-4D2B-88BE-B4AE76EF6D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14208F18-60E9-4D2B-88BE-B4AE76EF6D19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4052A3E0-FA65-4151-A191-339C93EC8C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4052A3E0-FA65-4151-A191-339C93EC8C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4052A3E0-FA65-4151-A191-339C93EC8C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4052A3E0-FA65-4151-A191-339C93EC8C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A1AC8AB-7BD5-431B-8F70-E0BDFB9AB540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1AC8AB-7BD5-431B-8F70-E0BDFB9AB540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1AC8AB-7BD5-431B-8F70-E0BDFB9AB540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1AC8AB-7BD5-431B-8F70-E0BDFB9AB540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB5DAA3-D852-410B-A51C-6C6E6843C048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB5DAA3-D852-410B-A51C-6C6E6843C048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB5DAA3-D852-410B-A51C-6C6E6843C048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB5DAA3-D852-410B-A51C-6C6E6843C048}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

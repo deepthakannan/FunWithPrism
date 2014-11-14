@@ -1,0 +1,7 @@
+C:\Users\DK\Documents\GitHub\FunWithPrism\LearnSilverlight\SilverlightMovie\Bin\Debug\SilverlightMovie.dll
+C:\Users\DK\Documents\GitHub\FunWithPrism\LearnSilverlight\SilverlightMovie\Bin\Debug\SilverlightMovie.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\LearnSilverlight\SilverlightMovie\Bin\Debug\SilverlightMovieInterfaces.dll
+C:\Users\DK\Documents\GitHub\FunWithPrism\LearnSilverlight\SilverlightMovie\Bin\Debug\SilverlightMovieInterfaces.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\LearnSilverlight\SilverlightMovie\obj\Debug\SilverlightMovie.csprojResolveAssemblyReference.cache
+C:\Users\DK\Documents\GitHub\FunWithPrism\LearnSilverlight\SilverlightMovie\obj\Debug\SilverlightMovie.dll
+C:\Users\DK\Documents\GitHub\FunWithPrism\LearnSilverlight\SilverlightMovie\obj\Debug\SilverlightMovie.pdb

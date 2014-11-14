@@ -1,0 +1,11 @@
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\LearnWPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\LearnWPF\obj\x86\Debug\App.g.cs
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\LearnWPF\obj\x86\Debug\LearnWPF_MarkupCompile.cache
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\LearnWPF\bin\Debug\LearnWPF.exe
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\LearnWPF\bin\Debug\LearnWPF.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\LearnWPF\obj\x86\Debug\MainWindow.baml
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\LearnWPF\obj\x86\Debug\LearnWPF.g.resources
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\LearnWPF\obj\x86\Debug\LearnWPF.Properties.Resources.resources
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\LearnWPF\obj\x86\Debug\LearnWPF.csproj.GenerateResource.Cache
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\LearnWPF\obj\x86\Debug\LearnWPF.exe
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\LearnWPF\obj\x86\Debug\LearnWPF.pdb

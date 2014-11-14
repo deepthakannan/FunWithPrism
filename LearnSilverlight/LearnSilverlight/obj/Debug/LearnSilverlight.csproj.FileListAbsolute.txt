@@ -1,0 +1,2 @@
+C:\Users\DK\Documents\GitHub\FunWithPrism\LearnSilverlight\LearnSilverlight\obj\Debug\App.g.cs
+C:\Users\DK\Documents\GitHub\FunWithPrism\LearnSilverlight\LearnSilverlight\obj\Debug\LearnSilverlight.g.resources

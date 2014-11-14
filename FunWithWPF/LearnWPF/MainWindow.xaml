@@ -1,0 +1,13 @@
+﻿<Window x:Class="LearnWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Learn WPF" Height="350" Width="525">
+    <StackPanel>
+        <TextBlock> Watch how I learn </TextBlock>
+        <Button Name="HowILearnBuutton" Click="HowILearnBuuttonButtonClick">How?</Button>
+    </StackPanel>
+
+
+</Window>
+
+

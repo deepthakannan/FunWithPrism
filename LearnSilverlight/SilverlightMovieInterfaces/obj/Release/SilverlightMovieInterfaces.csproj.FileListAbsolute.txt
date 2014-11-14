@@ -1,0 +1,6 @@
+C:\Users\DK\Documents\GitHub\FunWithPrism\LearnSilverlight\SilverlightMovieInterfaces\Bin\Release\SilverlightMovieInterfaces.dll
+C:\Users\DK\Documents\GitHub\FunWithPrism\LearnSilverlight\SilverlightMovieInterfaces\Bin\Release\SilverlightMovieInterfaces.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\LearnSilverlight\SilverlightMovieInterfaces\obj\Release\SilverlightMovieInterfaces.dll
+C:\Users\DK\Documents\GitHub\FunWithPrism\LearnSilverlight\SilverlightMovieInterfaces\obj\Release\SilverlightMovieInterfaces.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\LearnSilverlight\Bin\SilverlightMovieInterfaces.dll
+C:\Users\DK\Documents\GitHub\FunWithPrism\LearnSilverlight\Bin\SilverlightMovieInterfaces.pdb
