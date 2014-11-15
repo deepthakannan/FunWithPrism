@@ -22,6 +22,20 @@ namespace LearnWPF
         public MainWindow()
         {
             InitializeComponent();
+            MakePatrioticGridBackGround();
+        }
+
+        private void MakePatrioticGridBackGround()
+        {
+            grid.Background = new LinearGradientBrush() 
+            { 
+                GradientStops = new GradientStopCollection() 
+                { 
+                    new GradientStop(Colors.Orange, 0.33), 
+                    new GradientStop(Colors.White, 0.67), 
+                    new GradientStop(Colors.Green, 1) 
+                } 
+            };
         }
 
         private void HowILearnBuuttonButtonClick(object sender, RoutedEventArgs e)
