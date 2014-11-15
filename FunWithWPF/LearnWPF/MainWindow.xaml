@@ -17,6 +17,7 @@
             <RowDefinition />
             <RowDefinition />
             <RowDefinition />
+            <RowDefinition />
         </Grid.RowDefinitions>
 
         <Label Grid.Row="0" Content="Learn WPF" Background="BlanchedAlmond">
@@ -35,6 +36,12 @@
         <Button Grid.Row="3" Name="HowILearnBuutton" Click="HowILearnBuuttonButtonClick" Content="How?">
             
         </Button>
+
+        <DockPanel Name="dockPanel" Grid.Row="4" >
+            <Button DockPanel.Dock="Left" Content="Play"/>
+            <Button DockPanel.Dock="Left"  Content="Pause"/>
+            <Button DockPanel.Dock="Right"  Content="Cancel"/>
+        </DockPanel>
     </Grid>
 </Window>
 

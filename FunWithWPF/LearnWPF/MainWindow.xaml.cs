@@ -23,6 +23,14 @@ namespace LearnWPF
         {
             InitializeComponent();
             MakePatrioticGridBackGround();
+            AddAButtonToDockPanelAndSetItsDockUsingAttachedProperties();
+        }
+
+        private void AddAButtonToDockPanelAndSetItsDockUsingAttachedProperties()
+        {
+            Button button = new Button() { Content = "Close" };
+            dockPanel.Children.Add(button);
+            DockPanel.SetDock(button, Dock.Right);
         }
 
         private void MakePatrioticGridBackGround()
