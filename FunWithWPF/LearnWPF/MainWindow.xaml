@@ -43,10 +43,12 @@
             
         </Button>
 
-        <DockPanel Name="dockPanel" Grid.Row="4" >
-            <Button DockPanel.Dock="Left" Content="Play"/>
-            <Button DockPanel.Dock="Left"  Content="Pause"/>
-            <Button DockPanel.Dock="Right"  Content="Cancel"/>
+        <DockPanel LastChildFill="True" Name="dockPanel" Grid.Row="4" >
+<Button DockPanel.Dock="Left" Content="Pause"/>
+
+                <Button DockPanel.Dock="Right"  Content="Cancel"/>
+                <Button DockPanel.Dock="Bottom"  Content="Play"/>
+                
         </DockPanel>
     </Grid>
         <Grid Grid.Column="1"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
