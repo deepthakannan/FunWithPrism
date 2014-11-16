@@ -24,6 +24,16 @@ namespace LearnWPF
             InitializeComponent();
             MakePatrioticGridBackGround();
             AddAButtonToDockPanelAndSetItsDockUsingAttachedProperties();
+            AddLoginTypeRadioButtons();
+
+        }
+
+        private void AddLoginTypeRadioButtons()
+        {
+            StackPanel loginTypeStakePPanel = new StackPanel() { Orientation = System.Windows.Controls.Orientation.Horizontal, HorizontalAlignment=System.Windows.HorizontalAlignment.Center };
+            loginTypeStakePPanel.Children.Add(new RadioButton() { Content = "Windows" });
+            loginTypeStakePPanel.Children.Add(new RadioButton() { Content = "SQL" });
+            loginStackPanel.Children.Add(loginTypeStakePPanel);
         }
 
         private void AddAButtonToDockPanelAndSetItsDockUsingAttachedProperties()

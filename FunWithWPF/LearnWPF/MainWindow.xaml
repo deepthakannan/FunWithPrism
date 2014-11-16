@@ -50,7 +50,7 @@
         </DockPanel>
     </Grid>
         <Grid Grid.Column="1"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
-        <StackPanel DockPanel.Dock="Right"  HorizontalAlignment="Center" VerticalAlignment="Center">
+        <StackPanel Name="loginStackPanel" DockPanel.Dock="Right"  HorizontalAlignment="Center" VerticalAlignment="Center">
                 <TextBlock HorizontalAlignment="Center" FontSize="15" FontWeight="Heavy" Foreground="DarkGoldenrod"> Login into the world of awesomeness </TextBlock>
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
                     <Label>Username</Label>
