@@ -9,3 +9,5 @@ C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\LearnWPF\obj\x86\Debug\Lear
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\LearnWPF\obj\x86\Debug\LearnWPF.csproj.GenerateResource.Cache
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\LearnWPF\obj\x86\Debug\LearnWPF.exe
 C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\LearnWPF\obj\x86\Debug\LearnWPF.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\LearnWPF\obj\x86\Debug\TicTacToe.baml
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\LearnWPF\obj\x86\Debug\TicTacToe.g.cs

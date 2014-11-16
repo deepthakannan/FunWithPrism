@@ -47,7 +47,7 @@
 <Button DockPanel.Dock="Left" Content="Pause"/>
 
                 <Button DockPanel.Dock="Right"  Content="Cancel"/>
-                <Button DockPanel.Dock="Bottom"  Content="Play"/>
+                <Button Name="PlayButton" DockPanel.Dock="Bottom"  Content="Play" Click="PlayButton_Click" />
                 
         </DockPanel>
     </Grid>

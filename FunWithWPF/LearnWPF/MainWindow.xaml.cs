@@ -60,5 +60,10 @@ namespace LearnWPF
         {
             MessageBox.Show("Youtube");
         }
+
+        private void PlayButton_Click(object sender, RoutedEventArgs e)
+        {
+            new TicTacToe().Show();
+        }
     }
 }
