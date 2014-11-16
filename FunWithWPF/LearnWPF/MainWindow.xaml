@@ -50,15 +50,15 @@
         </DockPanel>
     </Grid>
         <Grid Grid.Column="1"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
-        <StackPanel Name="loginStackPanel" DockPanel.Dock="Right"  HorizontalAlignment="Center" VerticalAlignment="Center">
+        <StackPanel Background="Crimson" Name="loginStackPanel" DockPanel.Dock="Right"  HorizontalAlignment="Center" VerticalAlignment="Center">
                 <TextBlock HorizontalAlignment="Center" FontSize="15" FontWeight="Heavy" Foreground="DarkGoldenrod"> Login into the world of awesomeness </TextBlock>
-            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
-                    <Label>Username</Label>
-                    <TextBox HorizontalAlignment="Right"  HorizontalContentAlignment="Stretch" Width="99"></TextBox>
+            <StackPanel Margin="10" Background="Chartreuse" Orientation="Horizontal" HorizontalAlignment="Center">
+                    <Label Background="Aqua" Margin="2" Padding="5">Username</Label>
+                    <TextBox HorizontalAlignment="Right"  HorizontalContentAlignment="Stretch" Width="99" FontSize="20"></TextBox>
                 </StackPanel>
-            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
-                    <Label>Password</Label>
-                    <TextBox HorizontalAlignment="Right" HorizontalContentAlignment="Stretch" Width="99"></TextBox>
+                <StackPanel Background= "Khaki" Orientation="Horizontal" HorizontalAlignment="Center">
+                    <Label Background="Aqua" Margin="2" Padding="5">Password</Label>
+                    <TextBox HorizontalAlignment="Right" HorizontalContentAlignment="Stretch" Width="99" FontSize="20"></TextBox>
                 </StackPanel>
                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
                     <Button Name="LoginButton">Login</Button>
