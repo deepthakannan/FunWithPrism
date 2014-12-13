@@ -24,5 +24,11 @@ namespace Main
 		{
 			InitializeComponent();
 		}
+
+        private void menuItemSetupNew_Click(object sender, RoutedEventArgs e)
+        {
+            SetupNewWizard setupWizard = new SetupNewWizard();
+            setupWizard.Show();
+        }
 	}
 }

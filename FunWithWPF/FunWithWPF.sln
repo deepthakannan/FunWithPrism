@@ -1,8 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
-MinimumVisualStudioVersion = 10.0.40219.1
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnWPF", "LearnWPF\LearnWPF.csproj", "{1CAF4CE2-8898-4F5D-8187-DDC82581592B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzeConnectSetup", "EzeConnectSetup\EzeConnectSetup.csproj", "{29E9D7CC-1A46-448B-AF9B-AA28F28336C1}"
