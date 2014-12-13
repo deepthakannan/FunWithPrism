@@ -1,0 +1,17 @@
+﻿<Window x:Class="Main.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+		<DockPanel>
+			<Menu DockPanel.Dock="Top">
+				<MenuItem Name="menuItemActions" Header="_Actions" >
+				<MenuItem Name="menuItemSetupNew" Header="_Setup"></MenuItem>
+				<MenuItem Name="menuItemLoad" Header="_Load"></MenuItem>
+				<MenuItem Name="menuItemSave" Header="_Save"></MenuItem>
+				<MenuItem Name="menuItemClose" Header="_Close"></MenuItem>
+				</MenuItem>
+			</Menu>
+		</DockPanel>
+    </Grid>
+</Window>
