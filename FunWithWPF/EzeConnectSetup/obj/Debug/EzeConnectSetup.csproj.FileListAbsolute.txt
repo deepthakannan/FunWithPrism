@@ -1,0 +1,12 @@
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\EzeConnectSetup\bin\Debug\EzeConnectSetup.exe.config
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\EzeConnectSetup\bin\Debug\EzeConnectSetup.exe
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\EzeConnectSetup\bin\Debug\EzeConnectSetup.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\EzeConnectSetup\obj\Debug\MainWindow.baml
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\EzeConnectSetup\obj\Debug\MainWindow.g.cs
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\EzeConnectSetup\obj\Debug\App.g.cs
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\EzeConnectSetup\obj\Debug\EzeConnectSetup_MarkupCompile.cache
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\EzeConnectSetup\obj\Debug\EzeConnectSetup.g.resources
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\EzeConnectSetup\obj\Debug\EzeConnectSetup.Properties.Resources.resources
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\EzeConnectSetup\obj\Debug\EzeConnectSetup.csproj.GenerateResource.Cache
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\EzeConnectSetup\obj\Debug\EzeConnectSetup.exe
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\EzeConnectSetup\obj\Debug\EzeConnectSetup.pdb

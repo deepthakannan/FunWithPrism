@@ -1,0 +1,14 @@
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\DataBindingInWPF\bin\Debug\DataBindingInWPF.exe.config
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\DataBindingInWPF\bin\Debug\DataBindingInWPF.exe
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\DataBindingInWPF\bin\Debug\DataBindingInWPF.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\DataBindingInWPF\obj\Debug\MainWindow.g.cs
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\DataBindingInWPF\obj\Debug\App.g.cs
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\DataBindingInWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\DataBindingInWPF\obj\Debug\DataBindingInWPF_MarkupCompile.cache
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\DataBindingInWPF\obj\Debug\DataBindingInWPF_MarkupCompile.lref
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\DataBindingInWPF\obj\Debug\MainWindow.baml
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\DataBindingInWPF\obj\Debug\DataBindingInWPF.g.resources
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\DataBindingInWPF\obj\Debug\DataBindingInWPF.Properties.Resources.resources
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\DataBindingInWPF\obj\Debug\DataBindingInWPF.csproj.GenerateResource.Cache
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\DataBindingInWPF\obj\Debug\DataBindingInWPF.exe
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\DataBindingInWPF\obj\Debug\DataBindingInWPF.pdb

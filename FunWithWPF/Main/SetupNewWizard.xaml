@@ -1,0 +1,35 @@
+﻿<Window x:Class="Main.SetupNewWizard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SetupNewWizard" Height="300" Width="300">
+    <Grid>
+        <DockPanel>
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal">
+        <Label> Name </Label>             
+            <TextBox MinWidth="100"></TextBox>
+            </StackPanel>
+            <StackPanel DockPanel.Dock="Top" Orientation="Horizontal">
+                <Label>Name</Label>
+                <TextBox MinWidth="100"></TextBox>
+            </StackPanel>
+            <StackPanel  DockPanel.Dock="Top" Orientation="Horizontal">
+                <Label>Name</Label>
+                <TextBox MinWidth="100"></TextBox>
+            </StackPanel>
+            <StackPanel DockPanel.Dock="Top" Orientation="Horizontal">
+                <Label>Name</Label>
+                <TextBox MinWidth="100"></TextBox>
+            </StackPanel>
+            <StackPanel DockPanel.Dock="Top" Orientation="Horizontal">
+                <Label>Name</Label>
+                <TextBox MinWidth="100"></TextBox>
+            </StackPanel>
+                <DockPanel>
+                    <StackPanel Orientation="Horizontal" DockPanel.Dock="Bottom" VerticalAlignment="Bottom" HorizontalAlignment="Right">
+                        <Button MinWidth="100">Cancel</Button>
+                        <Button MinWidth="100"> Ok </Button>
+                    </StackPanel>
+                </DockPanel>
+        </DockPanel>
+    </Grid>
+</Window>

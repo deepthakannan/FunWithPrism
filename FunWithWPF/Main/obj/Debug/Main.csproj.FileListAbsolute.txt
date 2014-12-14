@@ -1,0 +1,14 @@
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\Main\bin\Debug\Main.exe.config
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\Main\bin\Debug\Main.exe
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\Main\bin\Debug\Main.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\Main\obj\Debug\MainWindow.baml
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\Main\obj\Debug\MainWindow.g.cs
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\Main\obj\Debug\App.g.cs
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\Main\obj\Debug\Main_MarkupCompile.cache
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\Main\obj\Debug\Main.g.resources
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\Main\obj\Debug\Main.exe
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\Main\obj\Debug\Main.pdb
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\Main\obj\Debug\SetupNewWizard.baml
+C:\Users\DK\Documents\GitHub\FunWithPrism\FunWithWPF\Main\obj\Debug\SetupNewWizard.g.cs
