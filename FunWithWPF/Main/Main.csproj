@@ -53,6 +53,8 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="IMainViewModel.cs" />
+    <Compile Include="SetupNewCommand.cs" />
     <Compile Include="SetupNewWizard.xaml.cs">
       <DependentUpon>SetupNewWizard.xaml</DependentUpon>
     </Compile>

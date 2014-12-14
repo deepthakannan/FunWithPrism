@@ -6,7 +6,7 @@
 		<DockPanel>
 			<Menu DockPanel.Dock="Top">
 				<MenuItem Name="menuItemActions" Header="_Actions" >
-				<MenuItem Name="menuItemSetupNew" Header="_Setup" Click="menuItemSetupNew_Click"></MenuItem>
+                    <MenuItem Name="menuItemSetupNew" Header="_Setup" Command= "{Binding Path=LaunchNewSetupWizardCommmand}"></MenuItem>
 				<MenuItem Name="menuItemLoad" Header="_Load"></MenuItem>
 				<MenuItem Name="menuItemSave" Header="_Save"></MenuItem>
 				<MenuItem Name="menuItemClose" Header="_Close"></MenuItem>

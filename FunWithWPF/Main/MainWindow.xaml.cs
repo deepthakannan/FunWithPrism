@@ -23,6 +23,7 @@ namespace Main
 		public MainWindow()
 		{
 			InitializeComponent();
+            this.DataContext = new MainViewModel();
 		}
 
         private void menuItemSetupNew_Click(object sender, RoutedEventArgs e)
